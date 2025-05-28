@@ -80,29 +80,3 @@ df = pd.read_csv("cleaned_data.csv")
 # plt.xlabel("Embarked Port")
 # plt.ylabel("Count")
 # plt.show()  # Shows how many people died and survived in each class
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
